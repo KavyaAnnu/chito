@@ -1,0 +1,11 @@
+[more]
+other = "More"
+
+[allTitle]
+other = "All {{.Title }}"
+
+[whatsInThis]
+other = "What's in this {{ .Type }}"
+
+[related]
+other = "Related"
